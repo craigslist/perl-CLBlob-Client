@@ -1,0 +1,6 @@
+_build
+blib
+Build
+CLBlob-Client-*.tar.gz
+Makefile.PL
+META.yml

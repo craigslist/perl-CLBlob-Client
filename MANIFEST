@@ -1,0 +1,9 @@
+Build.PL
+Changes
+lib/CLBlob/Client.pm
+LICENSE
+Makefile.PL
+MANIFEST
+META.yml
+README
+t/00-client.t
