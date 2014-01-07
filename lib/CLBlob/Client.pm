@@ -273,7 +273,7 @@ Make a deleted time from a ttl if needed.
 sub _make_deleted {
     my $self = shift;
     my $ttl = shift;
-    my $deleted;
+    my $deleted = shift;
     if (defined($deleted)) {
         return $deleted;
     }
